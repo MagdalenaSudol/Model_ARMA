@@ -11,3 +11,9 @@ W projekcie nie będziemy rozpatrywać wszystkich dostępnych zmiennych, a skupi
 - time: Data pomiarów (od 2013-03-01 do 2023-03-01)
 - tavf: Średnia temperatura powietrza ($^\circ C$).
 
+### PLIKI: 
+Repozytorium zawiera:
+- plik 'raport.ipynb' z kodem oraz wynikami działania poszczególnych jego fragmentów,
+- plik 'raport.pdf' z tekstem raportu,
+- wykresy zapisane w formie plików PNG.
+
